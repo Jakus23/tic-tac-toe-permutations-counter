@@ -13,10 +13,10 @@ The Algorithm Explained
 -----------------------
 1. Create First Game
 2. Get Result
-3. Decide Next Action For In Prgress Games
+3. Decide Next Action For In Progress Game<br />
     3.1. Get All Moves Left<br />
     3.2. Get Next Player<br />
-    3.3. Make Available Move<br />
+    3.3. Make Available Moves<br />
     3.4. Get Result<br />
 4. Log Ended Game
 5. Count Permutation
